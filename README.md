@@ -1,7 +1,7 @@
-<h1>Portfolio Project and Registration Page</h1>
+<h1>Survey Form</h1>
 
 <h2>Description</h2>
-This is one of the required projects given by the Zuri Team for the Internship Training.
+This is one of the required projects to earn my Responsive Web Design certification from freeCodeCamp. For this project, I built a survey form to collect data from users.
 <br />
 
 
@@ -12,6 +12,5 @@ This is one of the required projects given by the Zuri Team for the Internship T
 
 <h2>Environments Used </h2>
 
-- <b>Replit</b>
 - <b>Visual Studio Code</b>
 
